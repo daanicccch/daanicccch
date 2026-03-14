@@ -13,7 +13,7 @@ I work with high-load backends, microservices, event-driven architecture, paymen
     <img src="https://img.shields.io/badge/Telegram-6366F1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/HsctWc3i5XXfgeSN2w/giphy.gif" width="460" style="margin-left: 24px;" />
-  <a href="https://www.linkedin.com/in/danila-lonski-6b977a3b5/" target="_blank">
+  <a href="https://www.linkedin.com/in/daanicccch/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
